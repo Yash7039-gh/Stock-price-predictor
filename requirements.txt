@@ -1,5 +1,12 @@
 pandas
-numpy
 matplotlib
+pandas_datareader
+pandas_datareader
+yfinance==0.1.87
+datetime
+keras
+streamlit
+tensorflow
 scikit-learn
-yfinance
+plotly
+

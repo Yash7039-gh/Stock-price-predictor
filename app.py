@@ -24,7 +24,7 @@ date = x.strftime("%Y-%m-%d")
 st.title('Stock Price Prediction')
 st.subheader('Mahesh Wagh')
 
-link = 'To Study Stock Graph Trends: <a href="https://stock-trend-prediction-maheshwagh.streamlit.app/" target="_blank">Click Here</a>'
+link = 'To Study Stock Graph Trends: <a href="https://stock-trend-prediction-yashyadav.streamlit.app/" target="_blank">Click Here</a>'
 st.markdown(link, unsafe_allow_html=True)
 
 
@@ -306,3 +306,4 @@ if(diff>=0):
     st.markdown(f"<h3 style='color:{positive}'>+{diff} ({diff_Per}%)</h3>", unsafe_allow_html=True)
 else:
      st.markdown(f"<h3 style='color:{negative}'>{diff} ({diff_Per}%)</h3>", unsafe_allow_html=True)
+

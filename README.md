@@ -12,9 +12,6 @@ Installation
 Clone the repository:
 
 bash
-
-Copy code
-git clone https://github.com/maheshwagh2003/stock-price-predictor.git
 Install the required dependencies:
 
 Copy code
@@ -22,7 +19,6 @@ pip install -r requirements.txt
 Run the Streamlit app:
 
 arduino
-Copy code
 streamlit run app.py
 Access the app through your web browser at http://localhost:8501.
 

@@ -32,12 +32,4 @@ Select the desired prediction horizon (e.g., 1 day, 5 days, etc.).
 Click the "Predict" button to generate predictions.
 View the predicted stock prices plotted on the chart.
 
-Demo
-Predictions: 
-![Web 1920 – 1](https://github.com/maheshwagh2003/Stock-Price_Predictor/assets/77723262/9bddace8-ab01-4787-a690-8cfab4b8ca93)
 
-Actual Values:
-![Group 1](https://github.com/maheshwagh2003/Stock-Price_Predictor/assets/77723262/6872d2f8-2616-4970-9d1b-fb3fa91abb5d)
-
-Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvements.
